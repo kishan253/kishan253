@@ -13,9 +13,9 @@
 - 🌱 I’m currently learning Next.js and Exploring web3
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movies and travel
-- 📢 I have started my career as a front-end developer at [leadsbee.org][leadsbee]
-- 📢 I have work on freelance project with [Drivill][drivill] as a front-end developer
+- ⚡ Fun fact: I love to watch movies
+- 📢 I have started my career as a front-end developer as a Freelacer
+- 📢 I have work on freelance project with Online as a front-end developer
 - 📢 I have work with [programming hero][programminghero] as a MERN stack developer under end game project
 - 📢 Currently I am working as Full stack developer in [Alpha OBS LLP][aobs]
 
@@ -48,18 +48,19 @@
 <br />
 <br />
 
-[![Md Nakibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnakibul)](https://github.com/anuraghazra/github-readme-stats)
+[![Kishan  GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan)](https://github.com/anuraghazra/github-readme-stats)
 
-![Md Nakibul Hosen Nahid's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnakibul&theme=darcula&hide_border=true)
+![Kishan Sharma Nahid's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishan&theme=darcula&hide_border=true)
 
 ![Nakibul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnakibul&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-[website]: https://www.programmingcare.com/
-[portfolio]: https://mdnakibul.netlify.app/
-[twitter]: https://twitter.com/HosenNakibul
-[youtube]: https://www.youtube.com/c/MdNakibulHosenNahid
-[instagram]: https://www.instagram.com/md_nakibul_hosen/
-[linkedin]: https://www.linkedin.com/in/md-nakibul-hosen-nahid/
+[website]: https://.../
+[portfolio]: https://.../
+[twitter]: https://..
+[youtube]: https://..
+[instagram]: https://../
+[linkedin]: https://../
+
 [webdevguideline]: https://www.freecodecamp.org/news/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90/
 [learnjs]: https://www.w3schools.com/js/default.asp
 [learncss]: https://www.w3schools.com/css/default.asp
