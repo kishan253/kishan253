@@ -2,11 +2,11 @@
 
 ## Hi there, I'm - [Kishan Sharma][portfolio] 👋
 
-### Nice to see you here <img alt="programmingcare.com" width="22px" margin-right="20px" src="https://cutt.ly/OCwZs7k" />
+### Nice to see you here <img alt="programmingcare.com" width="22px" margin-right="20px" src="" />
 
-[![Website](https://img.shields.io/website?label=programmingcare.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://www..com/)
-[![Website](https://img.shields.io/website?label=mdnakibul.netlify.com&style=for-the-badge&url=)](website link/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HosenNakibul?color=1DA1F2&logo=twitter&style=for-the-badge)]
+[![Website](https://img.shields.io/website?label=programmingcare.com&style=for-the-badge&url=httpse.com)](https://www..com/)
+[![Website](https://img.shields.io/website?label=.netlify.com&style=for-the-badge&url=)](website link/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 
 original_referer=https%3A%2F%2Fgithub.com%&screen_name=kishan)
