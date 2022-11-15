@@ -13,14 +13,14 @@ original_referer=https%3A%2F%2Fgithub.com%2FHosenNakibul&screen_name=kishan)
 
 ## I'm a Developer and Dreamer Who make things happen!!
 
-- 🌱 I’m currently learning Next.js and Exploring web3
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies
-- 📢 I have started my career as a front-end developer as a Freelacer
-- 📢 I have work on freelance project with Online as a front-end developer
-- 📢 I have work with [programming hero][programminghero] as a MERN stack developer under end game project
-- 📢 Currently I am working as Full stack developer in [Alpha OBS LLP][aobs]
+- 📢 
+- 📢 I have work on freelance project with Online
+- 📢 I have work with [programming hero][programminghero] 
+- 📢 Currently I am working as Full stack developer as a Freelacer
 
 ### Connect with me:
 
