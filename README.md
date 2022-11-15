@@ -45,11 +45,8 @@ original_referer=https%3A%2F%2Fgithub.com%&screen_name=kishan)
 <br />
 <br />
 
-[![Kishan  GitHub stats]()
 
-![Kishan Sharma  Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishan&theme=darcula&hide_border=true)
 
-![kishan Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 [website]: https://.../
 [portfolio]: https://.../
