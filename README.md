@@ -4,12 +4,12 @@
 
 ### Nice to see you here <img alt="programmingcare.com" width="22px" margin-right="20px" src="https://cutt.ly/OCwZs7k" />
 
-[![Website](https://img.shields.io/website?label=programmingcare.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://www.programmingcare.com/)
-[![Website](https://img.shields.io/website?label=mdnakibul.netlify.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](website link/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HosenNakibul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?
+[![Website](https://img.shields.io/website?label=programmingcare.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://www..com/)
+[![Website](https://img.shields.io/website?label=mdnakibul.netlify.com&style=for-the-badge&url=)](website link/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HosenNakibul?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 
-original_referer=https%3A%2F%2Fgithub.com%2FHosenNakibul&screen_name=kishan)
+original_referer=https%3A%2F%2Fgithub.com%&screen_name=kishan)
 
 ## I'm a Developer and Dreamer Who make things happen!!
 
@@ -25,10 +25,10 @@ original_referer=https%3A%2F%2Fgithub.com%2FHosenNakibul&screen_name=kishan)
 ### Connect with me:
 
 [<img align="left" alt="programmingcare.com" width="22px" margin-right="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Md Nakibul Hosen | Twitter" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="programmingcare | LinkedIn" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="programmingcare | Instagram" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="programmingcare | YouTube" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Kishan Sharma | Twitter" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" Name Webisite | LinkedIn" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Website Name | Instagram" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Website name | YouTube" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
 
 ### Languages and Tools:
@@ -51,11 +51,11 @@ original_referer=https%3A%2F%2Fgithub.com%2FHosenNakibul&screen_name=kishan)
 <br />
 <br />
 
-[![Kishan  GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan)](https://github.com/anuraghazra/github-readme-stats)
+[![Kishan  GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan)](https://github.com//github-readme-stats)
 
-![Kishan Sharma Nahid's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishan&theme=darcula&hide_border=true)
+![Kishan Sharma  Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishan&theme=darcula&hide_border=true)
 
-![Nakibul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnakibul&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![kishan Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 [website]: https://.../
 [portfolio]: https://.../
