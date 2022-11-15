@@ -45,7 +45,7 @@ original_referer=https%3A%2F%2Fgithub.com%&screen_name=kishan)
 <br />
 <br />
 
-[![Kishan  GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan)](https://github.com//github-readme-stats)
+[![Kishan  GitHub stats]()
 
 ![Kishan Sharma  Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishan&theme=darcula&hide_border=true)
 
