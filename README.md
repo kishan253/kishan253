@@ -57,23 +57,24 @@
 [twitter]: https://..
 [youtube]: https://..
 [instagram]: https://../
-[linkedin]: https://../
+[linkedin]: https://www.linkedin.com/in/kisu4u
+/
 
 [webdevguideline]: https://www.freecodecamp.org/news/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90/
 [learnjs]: https://www.w3schools.com/js/default.asp
 [learncss]: https://www.w3schools.com/css/default.asp
-[reactplaylist]: https://www.w3schools.com/react/default.asp
 [learnhtml]: https://www.w3schools.com/html/
-[sass]: https://sass-lang.com/
 [vscode]: https://code.visualstudio.com/
-[react]: https://reactjs.org/
-[node]: https://nodejs.org/en/
 [mysql]: https://www.mysql.com/
-[mongodb]: https://www.mongodb.com/
 [git]: https://www.mongodb.com/
 [github]: https://github.com/
+[reactplaylist]: https://www.w3schools.com/react/default.asp
 [terminal]: https://github.com/microsoft/terminal
-[leadsbee]: https://www.facebook.com/leadsbeeinc
-[drivill]: https://www.linkedin.com/company/drivill
 [programminghero]: https://www.linkedin.com/company/drivill
 [aobs]: https://latenthq.com/
+[leadsbee]: https://www.facebook.com/leadsbeeinc
+[drivill]: https://www.linkedin.com/company/drivill
+[mongodb]: https://www.mongodb.com/
+[react]: https://reactjs.org/
+[node]: https://nodejs.org/en/
+[sass]: https://sass-lang.com/
