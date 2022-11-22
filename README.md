@@ -11,14 +11,14 @@
 
 ## I'm a Developer and Dreamer Who make things happen!!
 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movies
+- 🌱 
+- 👯 
+- 🥅 
+- ⚡ 
 - 📢 
-- 📢 I have work on freelance project with Online
-- 📢 I have 
-- 📢 Currently I am working as Full stack developer as a Freelacer
+- 📢 
+- 📢  
+- 📢 Currently I am finding a job
 
 ### Connect with me:
 
