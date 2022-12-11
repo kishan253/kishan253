@@ -14,8 +14,4 @@
  
 - 📢 Currently I am finding a job
 
-### Connect with me:
-
-
-### Languages and Tools:
 
