@@ -11,13 +11,7 @@
 
 ## I'm a Developer and Dreamer Who make things happen!!
 
-- 🌱 
-- 👯 
-- 🥅 
-- ⚡ 
-- 📢 
-- 📢 
-- 📢  
+ 
 - 📢 Currently I am finding a job
 
 ### Connect with me:
