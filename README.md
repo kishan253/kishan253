@@ -15,3 +15,4 @@
 - 📢 Currently I am finding a job
 
 
+* Self Made Projects As a Freelacer *
