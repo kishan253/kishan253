@@ -16,4 +16,4 @@
 
 
 
-##   As a Freelacer My Work portfolio!!
+##   As a Freelacer My Work portfolio
