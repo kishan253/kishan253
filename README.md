@@ -12,8 +12,16 @@
 ## I'm a Developer and Dreamer Who make things happen!!
 
  
-- 📢 Currently I am finding a job
+- 📢 Hi, I'm an IT professional with over several years of experience in Frontend Web Developer | WordPress | Php | HTML | CSS | bootstrap | CodeIgniter . 
+
+##I am currently looking for challenging and exciting new opportunities in the field of web development & designing where I can effectively contribute my skills as a team player through dedication and hard work to meet organizational goals along side personal career growth.##
+
+
+Prioritize my tasks and efficiently organize everything to achieve my goals
+
+
+"You have to try before you succeed". This statement has always been a guideline for me. Whatever it is I aim at achieving, there are no shortcuts
 
 
 
-##   As a Freelacer My Work portfolio
+##  My Work portfolio
